@@ -5,3 +5,9 @@ Edit 4
 git clone 
 git add
 git commit 
+
+#git workflow
+1. add file/edit file
+2. add file to stasging area (git add files)
+3. saving (git commit 0m "message")
+

@@ -8,7 +8,7 @@ def compute(expression):
     elif operator == '-':
         return num0 - num1
      elif operator == '/':
-        return num0 - num1
+        return num0 / num1
     else:
         print('unknown operator!')
         return None
